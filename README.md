@@ -1,4 +1,4 @@
-# Programa_MegaSena
+# Programa_MegaSena em C
 
 <center>Criando um programa sobre a MEGA SENA com as seguintes funções:<br></center>
 <br>
